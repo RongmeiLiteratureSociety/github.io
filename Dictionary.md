@@ -1,8 +1,4 @@
----
-title: Dictionary
-layout: default
-permalink: /dictionary.html
----
+
 # Ruangmei-English Dictionary
 
 ## 📚 Alphabetical Index
