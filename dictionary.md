@@ -4,6 +4,25 @@ layout: default
 permalink: /dictionary.html
 ---
 # Ruangmei-English Dictionary
+<!-- Search Box -->
+<input type="text" id="search-box" placeholder="Search dictionary..." style="width:100%;padding:0.5rem;margin-bottom:1rem;" />
+
+<!-- Search Results -->
+<ul id="results"></ul>
+
+<!-- Simple Jekyll Search Script -->
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("search-box"),
+    resultsContainer: document.getElementById("results"),
+    json: "/search.json",
+    searchResultTemplate: '<li><strong>{title}</strong> <em>({pos})</em> — {definition}</li>',
+    noResultsText: '<li>No results found</li>',
+    fuzzy: true
+  });
+</script>
+
 
 ## 📚 Alphabetical Index
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
