@@ -1,6 +1,5 @@
 ---
 title: Rongmei Literature Society
-layout: default
 ---
 
 # Rongmei Literature Society
