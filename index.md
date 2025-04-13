@@ -3,7 +3,6 @@ title: Rongmei Literature Society
 layout: default
 ---
 
-# Rongmei Literature Society
 
 Welcome to the official website of the **Rongmei Literature Society (RLS)** — a community-driven initiative dedicated to the preservation, documentation, and promotion of the Rongmei language, literature, and cultural heritage.
 
