@@ -1,5 +1,6 @@
 ---
 title: Rongmei Literature Society
+layout: default
 ---
 
 # Rongmei Literature Society
@@ -8,43 +9,36 @@ Welcome to the official website of the **Rongmei Literature Society (RLS)** — 
 
 ---
 
-## 🌍 Our Mission
+## 🔗 Navigation
 
-- Preserve and promote the **Rongmei language** through linguistic research and cultural documentation.
-- Develop open-access tools and resources for **education, revitalization**, and academic collaboration.
-- Empower communities by encouraging **active participation** in language preservation.
-
----
-
-## 📚 Resources
-
-### 🔤 [Ruangmei-English Dictionary](dictionary.html)  
-Access the comprehensive, searchable Ruangmei-English dictionary.  
-📄 [View Markdown Source](dictionary.md)
-
-### 📘 Grammar Overview *(Coming Soon)*  
-Explore phonology, syntax, and tone systems in detail.
-
-### 🔊 [Audio Archive](./audio/)  
-Listen to native speaker recordings to learn correct pronunciation and tone.
+- [📚 Rongmei-English Dictionary](dictionary.md)
+- [📖 About RLS](about.md)
+- [📺 YouTube Channel](youtube.md)
+- [🎧 Audio Samples](audio/) *(upload coming soon)*
 
 ---
 
-## 🧩 Projects in Progress
+## 📝 Project Overview
 
-- 🔡 **Phonetic Transcription System** (with tone support)
-- 🗣️ **Community Audio Recording Drive**
-- 📖 **Text Corpus Collection**: Stories, oral histories, and songs
+The RLS initiative includes:
+- A searchable, alphabetical Rongmei-English dictionary
+- Male & female audio pronunciation samples
+- Archiving of traditional stories and oral literature
+- Community-driven contributions to preserve authenticity
 
 ---
 
 ## 📬 Contact Us
 
-If you’d like to contribute, collaborate, or learn more, feel free to reach out:
+Have feedback, ideas, or want to get involved?  
+Reach out to us:
 
-- 📧 **Email**: [rongmeiliteraturesociety@gmail.com](mailto:rongmeiliteraturesociety@gmail.com)
-- 🏛️ **GitHub**: [github.com/RongmeiLiteratureSociety](https://github.com/RongmeiLiteratureSociety)
+- 📧 Email: [rongmeiliteraturesociety@gmail.com](mailto:rongmeiliteraturesociety@gmail.com)
+- 🐙 GitHub: [@RongmeiLiteratureSociety](https://github.com/RongmeiLiteratureSociety)
+- 📺 YouTube: [Rongmei Literature Society](https://www.youtube.com/@RongmeiLiteratureSociety)
+
+We’d love to hear from you!
 
 ---
 
-© 2025 Rongmei Literature Society. All rights reserved.
+Thank you for being part of the effort to preserve and celebrate the Rongmei heritage 🌿
