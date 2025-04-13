@@ -12,7 +12,7 @@ Welcome to the official website of the **Rongmei Literature Society (RLS)** — 
 
 - [📚 Rongmei-English Dictionary](dictionary.md)
 - [📖 About RLS](about.md)
-- [📺 YouTube Channel](youtube.md)
+- [📺 YouTube Channel](https://www.youtube.com/@RongmeiLiteratureSociety?sub_confirmation=1)
 - [🎧 Audio Samples](audio/) *(upload coming soon)*
 
 ---
